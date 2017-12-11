@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="WidgetAlpha.widget.WidgetAlpha" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>WidgetAlpha</name>
+    <description>The description of this widget.</description>
+
+    <icon />
+
+    <properties>
+        <property key="message" type="string" required="true" defaultValue="">
+            <caption>String</caption>
+            <category>Appearance</category>
+            <description>Enter the string that you like to reverse!</description>
+        </property>
+    </properties>
+</widget>
